@@ -1,0 +1,4 @@
+Flask
+pandas
+openpyxl
+python-dateutil==2.9.0.post0
